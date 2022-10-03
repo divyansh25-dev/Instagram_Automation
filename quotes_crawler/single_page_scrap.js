@@ -73,6 +73,7 @@ if (list_quotes[i].indexOf('”') > -1) { list_quotes[i]=list_quotes[i].replace(
 return url;
 
   }
+  
 
   export {authors_with_quotes,list_urls}
 
